@@ -1,1 +1,1 @@
-# Kangaroo-Race-II
+# project-template-kangaroo-2
